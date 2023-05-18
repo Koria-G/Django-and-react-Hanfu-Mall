@@ -1,0 +1,22 @@
+.container{
+  padding: 60px 100px;
+  background-color: #faf5f9;
+  .h2Name{
+    color: #8b8b8b;
+    font-size: 28px;
+    text-align: center;
+    font-weight: lighter;
+  }
+}
+.bottom{
+  position: relative;
+  margin-top: 100px;
+  background-color: white;
+}
+
+.ant-card-meta-title {
+   color: #73c9e1 !important;
+  }
+  .ant-card-meta-description:hover {
+   color: #73c9e1;
+  }

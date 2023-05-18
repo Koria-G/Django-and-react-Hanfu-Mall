@@ -1,0 +1,43 @@
+#login {
+  width: 100%;
+  height: 750px;
+  background-image: url(@/assets/home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+  .text {
+    padding-top: 48px;
+    text-align: center;
+    color: rgb(15 151 207);
+    text-shadow: 1px 1px 1px #f4a2ef;
+    > span {
+      font-family: math;
+    }
+  }
+
+  .form-style {
+    width: 300px;
+    position: absolute;
+    right: 160px;
+    top: 120px;
+    background-color: rgb(227, 253, 224);
+    box-shadow: 5px 5px 5px rgba(195, 4, 144, 0.2);
+    padding: 20px;
+
+    .login {
+      text-align: center;
+      color: rgb(71 99 250);
+      margin-bottom: 20px;
+    }
+    .user {
+      text-align: center;
+      color: rgb(66 147 147);
+      margin-bottom: 20px;
+      .username {
+        margin-right: 10px;
+        width: 52px;
+      }
+    }
+  }
+}

@@ -1,0 +1,442 @@
+[
+  {
+      "category": "汉服女装",
+      "goods": [
+          {
+              "sizes": [
+                  [
+                      "M",
+                      "M"
+                  ],
+                  [
+                      "L",
+                      "L"
+                  ],
+                  [
+                      "XL",
+                      "XL"
+                  ]
+              ],
+              "goods_oldprice": "99.00",
+              "goods_desc": "宋制汉服女春夏中国风齐腰百迭裙绿色仙气飘逸汉旭清栀原创长褙子",
+              "colors": [
+                  [
+                      "杏色",
+                      "/media/color/songWhite.png"
+                  ],
+                  [
+                      "绿色",
+                      "/media/color/songGreen.png"
+                  ]
+              ],
+              "goodsname": "宋制汉服女春夏中国风齐腰百迭裙绿色仙气飘逸汉旭清栀原创长褙子",
+              "goods_price": "27.00",
+              "specs": [
+                  [
+                      "参数规格",
+                      [
+                          "/static/img/songDetail1.png"
+                      ]
+                  ],
+                  [
+                      "整体款式",
+                      [
+                          "/static/img/songDetail.png"
+                      ]
+                  ],
+                  [
+                      "模特实拍",
+                      [
+                          "/media/song1.png",
+                          "/media/song2.png",
+                          "/media/song3.png"
+                      ]
+                  ]
+              ]
+          },
+          {
+              "sizes": [
+                  [
+                      "S",
+                      "S"
+                  ],
+                  [
+                      "M",
+                      "M"
+                  ],
+                  [
+                      "L",
+                      "L"
+                  ],
+                  [
+                      "XL",
+                      "XL"
+                  ]
+              ],
+              "goods_oldprice": "128.00",
+              "goods_desc": "重回汉唐花想容颜唐制背子齐胸襦裙直领对襟广袖衫汉服女中国风春",
+              "colors": [
+                  [
+                      "米白",
+                      "/media/color/tangWhite.png"
+                  ],
+                  [
+                      "红色",
+                      "/media/color/tangRed.png"
+                  ],
+                  [
+                      "杏色",
+                      "/media/color/huang.jpgtangBai.png"
+                  ],
+                  [
+                      "绿色",
+                      "/media/color/tangGreen.png"
+                  ]
+              ],
+              "goodsname": "重回汉唐花想容颜唐制背子齐胸襦裙直领对襟广袖衫汉服女中国风春",
+              "goods_price": "69.90",
+              "specs": [
+                  [
+                      "参数规格",
+                      [
+                          "/static/img/tang.png",
+                          "/static/img/tang1.png"
+                      ]
+                  ],
+                  [
+                      "整体款式",
+                      [
+                          "/static/img/tangTotal.png"
+                      ]
+                  ],
+                  [
+                      "模特实拍",
+                      [
+                          "/media/tang1.png",
+                          "/media/tang2.png",
+                          "/media/tang3.png",
+                          "/media/tang4.png"
+                      ]
+                  ]
+              ]
+          }
+      ]
+  },
+  {
+      "category": "汉服男装",
+      "goods": [
+          {
+              "sizes": [
+                  [
+                      "M",
+                      "M"
+                  ],
+                  [
+                      "L",
+                      "L"
+                  ],
+                  [
+                      "XL",
+                      "XL"
+                  ],
+                  [
+                      "S",
+                      "S"
+                  ],
+                  [
+                      "XXL",
+                      "XXL"
+                  ],
+                  [
+                      "XXXL",
+                      "XXXL"
+                  ]
+              ],
+              "goods_oldprice": "199.00",
+              "goods_desc": "宋制汉服女春夏中国风齐腰百迭裙绿色仙气飘逸汉旭清栀原创长褙子",
+              "colors": [
+                  [
+                      "蓝色",
+                      "/media/color/nanBlue.png"
+                  ]
+              ],
+              "goodsname": "风雅司制原创【八仙过海】宋制汉服男女交领褙子大袖衫蓝白春夏秋",
+              "goods_price": "98.90",
+              "specs": [
+                  [
+                      "参数规格",
+                      [
+                          "/static/img/nanSong.png",
+                          "/static/img/nanSong1.png"
+                      ]
+                  ],
+                  [
+                      "整体款式",
+                      [
+                          "/static/img/nanDetail.png"
+                      ]
+                  ],
+                  [
+                      "模特实拍",
+                      [
+                          "/media/nan1.png",
+                          "/media/nan2.png",
+                          "/media/nan3.png",
+                          "/media/nan4.png"
+                      ]
+                  ]
+              ]
+          },
+          {
+              "sizes": [
+                  [
+                      "S",
+                      "S"
+                  ],
+                  [
+                      "M",
+                      "M"
+                  ],
+                  [
+                      "L",
+                      "L"
+                  ],
+                  [
+                      "XL",
+                      "XL"
+                  ]
+              ],
+              "goods_oldprice": "298.00",
+              "goods_desc": "墨河—褚云令原创汉服唐圆领背心绣花金色双龙戏珠男女同款霸气",
+              "colors": [
+                  [
+                      "黑色",
+                      "/media/color/nanBlack.png"
+                  ]
+              ],
+              "goodsname": "墨河—褚云令原创汉服唐圆领背心绣花金色双龙戏珠男女同款霸气",
+              "goods_price": "199.90",
+              "specs": [
+                  [
+                      "参数规格",
+                      [
+                          "/static/img/nanHei.png"
+                      ]
+                  ],
+                  [
+                      "整体款式",
+                      [
+                          "/static/img/nanHei1.png"
+                      ]
+                  ],
+                  [
+                      "模特实拍",
+                      [
+                          "/media/nanHei1.png",
+                          "/media/nanhei2.png"
+                      ]
+                  ]
+              ]
+          }
+      ]
+  },
+  {
+      "category": "汉服童装",
+      "goods": [
+          {
+              "sizes": [
+                  [
+                      "M",
+                      "M"
+                  ],
+                  [
+                      "L",
+                      "L"
+                  ],
+                  [
+                      "XL",
+                      "XL"
+                  ],
+                  [
+                      "S",
+                      "S"
+                  ],
+                  [
+                      "XXL",
+                      "XXL"
+                  ],
+                  [
+                      "XXXL",
+                      "XXXL"
+                  ]
+              ],
+              "goods_oldprice": "199.00",
+              "goods_desc": "宋制汉服女春夏中国风齐腰百迭裙绿色仙气飘逸汉旭清栀原创长褙子",
+              "colors": [
+                  [
+                      "蓝色",
+                      "/media/color/nanBlue.png"
+                  ]
+              ],
+              "goodsname": "风雅司制原创【八仙过海】宋制汉服男女交领褙子大袖衫蓝白春夏秋",
+              "goods_price": "98.90",
+              "specs": [
+                  [
+                      "参数规格",
+                      [
+                          "/static/img/nanSong.png",
+                          "/static/img/nanSong1.png"
+                      ]
+                  ],
+                  [
+                      "整体款式",
+                      [
+                          "/static/img/nanDetail.png"
+                      ]
+                  ],
+                  [
+                      "模特实拍",
+                      [
+                          "/media/nan1.png",
+                          "/media/nan2.png",
+                          "/media/nan3.png",
+                          "/media/nan4.png"
+                      ]
+                  ]
+              ]
+          },
+          {
+              "sizes": [
+                  [
+                      "S",
+                      "S"
+                  ],
+                  [
+                      "M",
+                      "M"
+                  ],
+                  [
+                      "L",
+                      "L"
+                  ],
+                  [
+                      "XL",
+                      "XL"
+                  ]
+              ],
+              "goods_oldprice": "198.00",
+              "goods_desc": "小华小夏女童汉服夏季凝琼玉高端原创改良宋制襦裙超仙中国风",
+              "colors": [
+                  [
+                      "蓝绿色",
+                      "/media/color/tongBlue.png"
+                  ],
+                  [
+                      "粉色",
+                      "/media/color/tongPick.png"
+                  ]
+              ],
+              "goodsname": "小华小夏女童汉服夏季凝琼玉高端原创改良宋制襦裙超仙中国风",
+              "goods_price": "89.90",
+              "specs": [
+                  [
+                      "参数规格",
+                      [
+                          "/static/img/tong1.png",
+                          "/static/img/tong.png"
+                      ]
+                  ],
+                  [
+                      "整体款式",
+                      [
+                          "/static/img/tongTotal.png"
+                      ]
+                  ],
+                  [
+                      "模特实拍",
+                      [
+                          "/media/tongB.png",
+                          "/media/tongB1.png",
+                          "/media/tongP.png"
+                      ]
+                  ]
+              ]
+          }
+      ]
+  },
+  {
+      "category": "周边配饰",
+      "goods": [
+          {
+              "sizes": [],
+              "goods_oldprice": "12.90",
+              "goods_desc": "知晓 拾簪记原创设计汉服配饰发簪宫廷步摇长流苏古典盘发",
+              "colors": [
+                  [
+                      "粉色",
+                      "/media/color/pick.png"
+                  ]
+              ],
+              "goodsname": "拾簪记",
+              "goods_price": "9.9",
+              "specs": [
+                  [
+                      "保饰指南",
+                      [
+                          "/static/img/ship.png"
+                      ]
+                  ],
+                  [
+                      "整体款式",
+                      [
+                          "/media/color/pick.png"
+                      ]
+                  ],
+                  [
+                      "模特实拍",
+                      [
+                          "/media/ship1.png",
+                          "/media/ship2.png",
+                          "/media/ship3.png"
+                      ]
+                  ]
+              ]
+          },
+          {
+              "sizes": [],
+              "goods_oldprice": "32.90",
+              "goods_desc": "凤求凰 故人归原创明制珍珠发冠汉服配饰发簪挑牌后压套装古风",
+              "colors": [
+                  [
+                      "金色",
+                      "/media/color/gold.png"
+                  ]
+              ],
+              "goodsname": "凤求凰 故人归原创明制珍珠发冠汉服配饰发簪挑牌后压套装古风",
+              "goods_price": "29.9",
+              "specs": [
+                  [
+                      "保饰指南",
+                      []
+                  ],
+                  [
+                      "整体款式",
+                      [
+                          "/media/color/gold.png"
+                      ]
+                  ],
+                  [
+                      "模特实拍",
+                      [
+                          "/media/gold1.png",
+                          "/media/gold2.png",
+                          "/media/gold3.png",
+                          "/media/gold4.png",
+                          "/media/gold5.png"
+                      ]
+                  ]
+              ]
+          }
+      ]
+  }
+]

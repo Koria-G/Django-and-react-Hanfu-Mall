@@ -1,0 +1,16 @@
+.nav{
+  margin-left: 100px;
+  height: 300px;
+  width: 120px;
+  list-style: none;
+  background-color: antiquewhite;
+  li{
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+    text-align: center;
+    border-bottom: 1px solid red;
+    font-size: 20px;
+  }
+  
+}

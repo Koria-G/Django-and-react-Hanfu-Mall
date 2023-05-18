@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pypitunatsinghuaedu"
+
+[packages]
+mysqlclient = "*"
+django-simpleui = {version = "*", index = "pypitunatsinghuaedu"}
+pillow = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+django-import-export = {version = "*", index = "pypitunatsinghuaedu"}
+pyecharts = "*"
+django = "==4.1.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
